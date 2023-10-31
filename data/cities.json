@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Naksalbari",
+      "date": "2023-09-24T15:37:52.609Z",
+      "notes": "naxal",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "position": {
+        "lat": 26.697035870842843,
+        "lng": 88.31765580569217
+      },
+      "id": "464b3e9e-94bb-49ad-ba4c-84abeb57d32b"
+    },
+    {
+      "cityName": "Sozopol",
+      "date": "2023-09-24T15:40:53.337Z",
+      "notes": "sozo",
+      "emoji": "🇧🇬",
+      "country": "Bulgaria",
+      "position": {
+        "lat": 42.407234661551875,
+        "lng": 27.5537109375
+      },
+      "id": "ee1404c4-eec4-416e-b908-b8a70c2e3a90"
+    },
+    {
+      "cityName": "Mozarbez",
+      "date": "2023-09-24T15:45:17.052Z",
+      "notes": "moza",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "position": {
+        "lat": 40.81380923056961,
+        "lng": -5.625
+      },
+      "id": "c28a3129-684f-43cb-8f60-5d320e58be44"
+    }
+  ]
+}
